@@ -17,6 +17,6 @@ Our team brings together educators, archivists, and bourbon professionals united
 
 <h2>How to use the repositories</h2>
 
-[![Press Kit](https://www.youtube.com)
+[![Museum Overview](https://youtu.be/aZAkRGGV-pE?si=p7-E3SUxNaM9wLdo)
 
-[![Education Assets](https://www.youtube.com)
+[![National Bourbon Week](https://youtu.be/RI8XncBkDis?si=oFuqdWXkSCOd8IVU)
