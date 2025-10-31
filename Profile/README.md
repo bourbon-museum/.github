@@ -15,8 +15,6 @@ tl;dr: Rooted in tradition yet built for tomorrow, the Getz Bourbon Museum blend
 
 Our team brings together educators, archivists, and bourbon professionals united by a shared passion for Kentucky’s signature spirit. Drawing from years of industry experience, we combine research, storytelling, and innovation to create immersive learning experiences. The Getz Bourbon Museum is built on the belief that understanding bourbon’s past is essential to shaping its future.
 
-<h2>How to use the repositories</h2>
+<h2>Be sure to stop by and see what we have to offer!</h2>
 
 [![Museum Overview](https://img.youtube.com/vi/aZAkRGGV-pE/0.jpg)](https://youtu.be/aZAkRGGV-pE?si=p7-E3SUxNaM9wLdo)
-
-[![National Bourbon Week](https://img.youtube.com/vi/RI8XncBkDis/0.jpg)](https://youtu.be/RI8XncBkDis?si=Gq-OoKRrSQ7uWE0r)
