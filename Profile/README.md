@@ -1,7 +1,7 @@
 # .github
 
 ![Museum_Banner](https://github.com/user-attachments/assets)
-[![Discord](https://www.fillmein.com)
+[![Discord](https://img.shields.io/discord/842853727606013963?&logo=discord&logoColor=white&label=Discord&link=https%3A%2F%2Fdiscord.gg%2FFD6MfaXXp)](https://discord.gg/FD6MfaXXp)
 
 <h2>Explore, Learn, and Savor the Spirit of Bourbon.</h2>
 
